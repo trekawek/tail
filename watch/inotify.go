@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/hpcloud/tail/util"
+	"github.com/trekawek/tail/util"
 
 	"gopkg.in/fsnotify.v1"
 	"gopkg.in/tomb.v1"
